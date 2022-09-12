@@ -1,0 +1,8 @@
+1.Not:
+Sayilar.txt belgesi doc klasörünün içinde bulunmakta, eğer dosya bulunamazsa program işlemleri gerçekleştirmeden çıkış yapar.
+Sayilar.txt klasörünün doc klasörünün içinden olduğundan emin olun.
+
+2.Not:
+Sayilar.txt den okunacak verinin, atılacağı stringin uzunluğu 150 olarak ayarlandı, daha büyük bir string girilecekse str[dizininboyutu] dizisinin boyutu arttırılmalıdır.
+
+
