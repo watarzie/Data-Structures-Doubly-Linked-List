@@ -1,7 +1,7 @@
 # Doubly Linked List
 ***
-* Sayilar.txt dosyasından verileri okumak. 
-* Okunan string i iki ayrı stringe bölmek
+* Sayilar.txt dosyasından verileri okumak 
+* Okunan string i iki ayrı stringe bölmek.
 * Verileri istenilen 3 basamaklı sayılara dönüştürmek. 
 * Elde edilen 3 basamaklı sayılarla 2 adet çift yönlü bağıl liste oluşturmak. 
 * Oluşturulan çift yönlü listelerin datalarını karşılaştırabilmek, listenin datasını 
